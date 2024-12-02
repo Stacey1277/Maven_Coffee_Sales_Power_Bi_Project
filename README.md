@@ -54,7 +54,7 @@ Thank you for checking out my project! Feel free to reach out if you have any qu
 
 ## 📂 Files
 - [Dataset (CSV)](link_to_dataset)  
-- [Power BI Project File (.pbix)](link_to_power_bi_file)
+- [Power BI Project File (.pbix)](https://github.com/Stacey1277/Maven_Coffee_Sales_Power_Bi_Project/blob/main/Maven%20Roasters%20Analysis.pbix)
 
 ---
 
